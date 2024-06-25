@@ -1,0 +1,10 @@
+yfinance
+from_root
+langchain
+streamlit
+python-dotenv 
+langchain-core
+langchain-groq
+google-search-results
+
+-e .

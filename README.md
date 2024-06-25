@@ -4,7 +4,7 @@
 
 This project aims to analyse stocks present in National Stock Exchange (NSE). It analyses the stock by collecting finanical data, respective company news, stock prices and provide a short analysis of the stock.
 
-[](./images/overview.png)
+![](./images/overview.png)
 
 ### How to Run ?
 
@@ -33,8 +33,8 @@ streamlit run app.py
 ### Preview
 
 Home Page :
-[](./images/home.png)
+![](./images/home.png)
 
-Output
+Output : 
 
-[](./images/output.png)
+![](./images/output.png)
